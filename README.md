@@ -1,7 +1,4 @@
 # Paper-Diffusion-T2M
-[TOC]
-
-
 
 ## diffusion
 
